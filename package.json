@@ -9,7 +9,8 @@
     "npm": "6.14.4"
   },
   "scripts": {
-    "start": "node ."
+    "start": "node index.js",
+    "build": "webpack"
   },
   "author": "Daniel <danyelkmylo@gmail.com>",
   "license": "ISC",
